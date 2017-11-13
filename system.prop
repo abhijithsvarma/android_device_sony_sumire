@@ -118,7 +118,7 @@ ro.sony.sensors.pedometer=false
 ro.sony.sensors.scrn_ortn=false
 ro.sony.sensors.cmc=false
 ro.sony.sensors.dpc=false
-ro.sony.sensors.pug=false
+ro.sony.sensors.pug=true
 ro.qc.sdk.sensors.gestures=true
 
 # Wifi
